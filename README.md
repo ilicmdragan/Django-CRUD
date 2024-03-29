@@ -11,6 +11,14 @@ This project is the result of my learning Python language and Django framework t
 2. Install all necessary dependencies using `pip install -r requirements.txt`.
 3. Run the Django server using `python manage.py runserver`.
 
+## Usage
+Once the application is running, you can perform CRUD operations on items. Here's a brief overview:
+
+Create: Click on the "Add New Item" button to create a new item.
+Read: View existing items on the homepage.
+Update: Click on the "Edit" button next to an item to update its details.
+Delete: Click on the "Delete" button next to an item to remove it from the list.
+
 ## Technologies Used
 - Python
 - Django
